@@ -4,15 +4,6 @@
   ☕ Code and coffee
 </h4>
 
-## Tutorial no YouTube
-
-https://www.youtube.com/watch?v=8pceqyDXG78
-
-## Instalador para Windows
-
-- [Baixe aqui o instalador](https://www.mediafire.com/file/qywp04xirqk3vt8/Instalador_Pedido.exe/file)
-
-
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -44,14 +35,3 @@ Para configurar o ambiente de desenvolvimento, por favor siga os passos abaixo.
     * `pipenv install`
     * `pipenv shell`
     * `python3 main.py`
-
-## 🤔 Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`;
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-:. Feito com ♥ by Professor Luciano :wave: [Professor Luciano](https://pythonsimplificado.com.br/links)
